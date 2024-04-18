@@ -1,7 +1,7 @@
 # Recurse2048
 
-![GUI]()
-![TUI]()
+![GUI](https://raw.githubusercontent.com/milesconrad/Recurse2048/main/images/GUI.png)
+![TUI](https://raw.githubusercontent.com/milesconrad/Recurse2048/main/images/TUI.png)
 
 This is a game I made as part of my CIS 163 Computer Science II course at Grand Valley State University. The goal of the project was to create a version of 2048 in which the tiles continue to move in the direction specified until they can no longer merge. Additionally, the project required the use of linked lists in the game board to become more familiar with them. The linked list library must be imported through `WeissLinkedList.jar` in order for the code to run. 
 
